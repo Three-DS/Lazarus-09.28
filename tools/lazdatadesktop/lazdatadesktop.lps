@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="7"/>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="lazdatadesktop.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="lazdatadesktop"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="frmmain.pp"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frmmain"/>
+        <UsageCount Value="20"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="dicteditor.pp"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="dicteditor"/>
+        <UsageCount Value="20"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="frmimportdd.pp"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="ImportDDform"/>
+        <UnitName Value="frmimportdd"/>
+        <UsageCount Value="20"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="frmgeneratesql.pp"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="GenerateSQLForm"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frmgeneratesql"/>
+        <UsageCount Value="20"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="frmsqlconnect.pp"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="SQLConnectionForm"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frmSQLConnect"/>
+        <UsageCount Value="20"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="ddfiles.pp"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ddfiles"/>
+        <UsageCount Value="20"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="conneditor.pp"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="conneditor"/>
+        <UsageCount Value="20"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="datapanel.pp"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="datapanel"/>
+        <UsageCount Value="20"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="querypanel.pp"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="querypanel"/>
+        <UsageCount Value="20"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="README.txt"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="20"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="frmselectconnectiontype.pp"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="SelectConnectionTypeForm"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="frmselectconnectiontype"/>
+        <CursorPos X="1" Y="1"/>
+        <TopLine Value="1"/>
+        <EditorIndex Value="0"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit11>
+    </Units>
+    <General>
+      <ActiveEditorIndexAtStart Value="0"/>
+    </General>
+  </ProjectSession>
+</CONFIG>

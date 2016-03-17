@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/local/bin/fpc" Date="1418320596"/>
+  <Params Value=" -MObjFPC -Scgi -O1 -g -gl -vewnhi -Fu/usr/local/src/pp.pas.lpr/lazarus/12.04/packager/units/x86_64-linux -Fu/usr/local/src/pp.pas.lpr/lazarus/12.04/components/lazutils/lib/x86_64-linux -Fu/usr/local/src/pp.pas.lpr/lazarus/12.04/lcl/units/x86_64-linux -Fu/usr/local/src/pp.pas.lpr/lazarus/12.04/lcl/units/x86_64-linux/gtk2 -Fu/usr/local/src/pp.pas.lpr/lazarus/09.28/components/opengl/ -FU/usr/local/src/pp.pas.lpr/lazarus/09.28/components/opengl/lib/x86_64-linux/gtk2/ -l -dLCL -dLCLgtk2 lazopenglcontext.pas"/>
+  <Complete Value="False"/>
+</CONFIG>

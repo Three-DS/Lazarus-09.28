@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="/usr/local/bin/fpc" Date="1399611122"/>
+  <Params Value=" -MObjFPC -Scgi -O1 -TLinux -Px86_64 -gl -vewnhi -l -Fu/usr/local/src/pp.pas.lpr/lazarus/09.28/lcl/units/x86_64-linux/ -Fu/usr/local/src/pp.pas.lpr/lazarus/09.28/lcl/units/x86_64-linux/gtk/ -Fu/usr/local/src/pp.pas.lpr/lazarus/09.28/packager/units/x86_64-linux/ -Fu/usr/local/src/pp.pas.lpr/lazarus/09.28/components/sdf/ -Fu. -FU/usr/local/src/pp.pas.lpr/lazarus/09.28/components/sdf/lib/x86_64-linux/gtk/ -dLCL -dLCLgtk sdflaz.pas"/>
+</CONFIG>
